@@ -22,3 +22,20 @@ Downloaded data for three sites (Wells, ME; Great Bay, NH; Narragansett Bay, RI)
 - R
 - Bash Shell
 
+## Files: 
+
+### Data: 
+- MonthlySalinity_95-22_Wells_GB_Narg_combined.csv #monthly water quality data from Wells, Great Bay, and Narragansett Bay combined into one file after being downloaded as separate csv files from the SWMP widget 
+- SummerSalinity.csv #contains only average monthly salinity data from May-Aug of each year from 1996 - 2021 for Wells, Great Bay, and Narragansett Bay; n/a values filtered out
+
+### Analysis: 
+- SiteAnova #ANOVA testing differences in mean summer salinity (average of all mean monthly salinities from May-Aug) across 26 years among the three sites
+- SiteSummary #mean summer salinities and variances across 26 years for all three sites
+
+### Scripts: 
+- AvgSal.sh #bash shell script for finding the mean salinity across all years for any raw SWMP csv file downloaded from the SWMP widget
+- TenYrAvgSal.sh #bash shell script for finding the mean salinity for the past ten years for any raw monthly SWMP csv file downloaded from the SWMP widget
+
+### Writing: 
+- ReadMe #Summary of repo purpose and contents 
+- KangFinalPaper #written report of background, methods, data analysis, and findings
