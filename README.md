@@ -31,9 +31,9 @@ Downloaded data for three sites (Wells, ME; Great Bay, NH; Narragansett Bay, RI)
 ### Analysis Documentation
 - Karis_Final_Project.md  
   - R Markdown document with step-by-step documentation of all R code for analyses and plots generated
-    - Plots and figures in .md file having trouble loading on github page, images provided separately in repo: 
-      - salplots.png - plot of average summer salinity over time for three sites 
-      - tukey.png - tukey plot to show differences in average summer salinity among sites
+  - Plots and figures in .md file having trouble loading on github page, images provided separately in repo: 
+   - salplots.png - plot of average summer salinity over time for three sites 
+   - tukey.png - tukey plot to show differences in average summer salinity among sites
 
 ### Writing: 
 - ReadMe 
