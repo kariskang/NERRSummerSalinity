@@ -25,16 +25,23 @@ Downloaded data for three sites (Wells, ME; Great Bay, NH; Narragansett Bay, RI)
 ## Files: 
 
 ### Data: 
-- MonthlySalinity_95-22_Wells_GB_Narg_combined.csv - monthly water quality data from Wells, Great Bay, and Narragansett Bay combined into one file after being downloaded as separate csv files from the SWMP widget 
-- SummerSalinity.csv - contains only average monthly salinity data from May-Aug of each year from 1996 - 2021 for Wells, Great Bay, and Narragansett Bay; n/a values filtered out
+- MonthlySalinity_95-22_Wells_GB_Narg_combined.csv 
+  - monthly water quality data from Wells, Great Bay, and Narragansett Bay combined into one file after being downloaded as separate csv files from the SWMP widget 
+- SummerSalinity.csv  
+  - contains only average monthly salinity data from May-Aug of each year from 1996 - 2021 for Wells, Great Bay, and Narragansett Bay; n/a values filtered out
 
 ### Analysis Documentation
-- Karis_FinalProject.html - R Markdown document with step-by-step documentation of all R code for analyses and plots generated
+- Karis_FinalProject.html  
+  - R Markdown document with step-by-step documentation of all R code for analyses and plots generated
 
 ### Scripts: 
-- AvgSal.sh #bash shell script for finding the mean salinity across all years for any raw SWMP csv file downloaded from the SWMP widget
-- TenYrAvgSal.sh #bash shell script for finding the mean salinity for the past ten years for any raw monthly SWMP csv file downloaded from the SWMP widget
+- AvgSal.sh 
+  - bash shell script for finding the mean salinity across all years for any raw SWMP csv file downloaded from the SWMP widget
+- TenYrAvgSal.sh 
+  - bash shell script for finding the mean salinity for the past ten years for any raw monthly SWMP csv file downloaded from the SWMP widget
 
 ### Writing: 
-- ReadMe #Summary of repo purpose and contents 
-- KangFinalPaper #written report of background, methods, data analysis, and findings
+- ReadMe 
+  - Summary of repo purpose and contents 
+- KangFinalPaper 
+  - written report of background, methods, data analysis, and findings
