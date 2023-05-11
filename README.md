@@ -18,7 +18,6 @@ Downloaded data for three sites (Wells, ME; Great Bay, NH; Narragansett Bay, RI)
 
 ## Languages: 
 - R
-- Bash Shell
 
 ## Files: 
 
