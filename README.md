@@ -25,12 +25,11 @@ Downloaded data for three sites (Wells, ME; Great Bay, NH; Narragansett Bay, RI)
 ## Files: 
 
 ### Data: 
-- MonthlySalinity_95-22_Wells_GB_Narg_combined.csv #monthly water quality data from Wells, Great Bay, and Narragansett Bay combined into one file after being downloaded as separate csv files from the SWMP widget 
-- SummerSalinity.csv #contains only average monthly salinity data from May-Aug of each year from 1996 - 2021 for Wells, Great Bay, and Narragansett Bay; n/a values filtered out
+- MonthlySalinity_95-22_Wells_GB_Narg_combined.csv - monthly water quality data from Wells, Great Bay, and Narragansett Bay combined into one file after being downloaded as separate csv files from the SWMP widget 
+- SummerSalinity.csv - contains only average monthly salinity data from May-Aug of each year from 1996 - 2021 for Wells, Great Bay, and Narragansett Bay; n/a values filtered out
 
-### Analysis: 
-- SiteAnova #ANOVA testing differences in mean summer salinity (average of all mean monthly salinities from May-Aug) across 26 years among the three sites
-- SiteSummary #mean summer salinities and variances across 26 years for all three sites
+### Analysis Documentation
+- Karis_FinalProject.html - R Markdown document with step-by-step documentation of all R code for analyses and plots generated
 
 ### Scripts: 
 - AvgSal.sh #bash shell script for finding the mean salinity across all years for any raw SWMP csv file downloaded from the SWMP widget
