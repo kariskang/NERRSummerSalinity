@@ -34,7 +34,7 @@ Average summer salinity was different across research reserves (f = 1274.845, p 
 | **Site**       | 2      | 34154      | 17077       | 1274.845    | \< 2e-16    |
 | **Year**       | 1      | 134        | 134         | 10.002      | 0.00173     |
 | **Site\*Year** | 2      | 29         | 15          | 1.093       | 0.33647     |
-| **Residuals**  | 292    | 3911       | 13          | \           | \           |
+| **Residuals**  | 292    | 3911       | 13          |             |             |
 
 **Table 3.** *Post-hoc Tukey multiple comparisons of average summer salinity values among sites*
 
@@ -46,11 +46,11 @@ Average summer salinity was different across research reserves (f = 1274.845, p 
 
 ![**Figure 1.** *Wells, ME showed the greatest difference in average summer salinity among the three sites, though salinity differences among all sites were significant*](tukey-1.png)
 
-**Figure 1.** *Wells, ME showed the greatest difference in average summer salinity among the three sites, though salinity differences among all sites were significant
+**Figure 1.** *Wells, ME showed the greatest difference in average summer salinity among the three sites, though salinity differences among all sites were significant*
 
 ![**Figure 2.** *Average summer salinity at New England coastal research stations has not changed significantly overall over the past 26 years (ANOVA, Factor = Site x Year, f = 1.093, p =0.33647, α = 0.05). However, average summer salinity is different among research stations (ANOVA, Factor = Site, f = 1274.845, p \< 2e-16, α = 0.05).*](salplots-1.png)
 
-**Figure 2.** *Average summer salinity at New England coastal research stations has not changed significantly overall over the past 26 years (ANOVA, Factor = Site x Year, f = 1.093, p =0.33647, α = 0.05). However, average summer salinity is different among research stations (ANOVA, Factor = Site, f = 1274.845, p \< 2e-16, α = 0.05).
+**Figure 2.** *Average summer salinity at New England coastal research stations has not changed significantly overall over the past 26 years (ANOVA, Factor = Site x Year, f = 1.093, p =0.33647, α = 0.05). However, average summer salinity is different among research stations (ANOVA, Factor = Site, f = 1274.845, p \< 2e-16, α = 0.05).*
 
 ## **Discussion**
 
