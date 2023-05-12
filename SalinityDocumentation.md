@@ -115,7 +115,7 @@ years when each site is taken into account separately (f = 1.093, p =
     ## Warning in replications(paste("~", xx), data = mf): non-factors ignored: Site,
     ## year
 
-![](Karis_Final_Project_files/figure-markdown_strict/tukey-1.png)
+![](tukey-1.png)
 
 Average summer salinity is significantly different among all three
 sites. Wells, ME has the largest negative difference from Narragansett
@@ -144,7 +144,7 @@ RI (~167 km).
       theme_bw() + 
       scale_color_discrete(breaks = labels, labels = labels) 
 
-![](Karis_Final_Project_files/figure-markdown_strict/salplots-1.png)
+![](salplots-1.png)
 
 **Figure 1.** Average summer salinity at New England coastal research
 stations has not changed significantly overall over the past 26 years
